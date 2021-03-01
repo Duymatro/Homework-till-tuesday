@@ -1,0 +1,13 @@
+.list-item{
+  display: inline-block;
+  position: relative;
+  background-color: green;
+  border: 1px solid green;
+  color: white;
+  font-size: 40px;
+  border-inline: none;
+  text-align: center;
+  }
+a {text-decoration: none;
+  color: white;
+}
